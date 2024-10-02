@@ -1,0 +1,111 @@
+<resources>
+    <string name="app_name">Minecraft Mobs</string>
+
+    <string name="sample_name">Mob Name</string>
+    <string name="sample_desc">Description</string>
+    <string name="sample_lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\n\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+
+    <string name="about">About</string>
+    <string name="health">Health:</string>
+    <string name="health_value">100</string>
+    <string name="damage">Damage:</string>
+    <string name="damage_value">100</string>
+    <string name="identifier">Identifier:</string>
+    <string name="identifier_value">entity.sample</string>
+    <string name="description">Description</string>
+    <string name="profile_name">******************</string>
+    <string name="profile_email">***********************</string>
+    <string name="share_btn">Share</string>
+
+    <string-array name="mob_names">
+        <item>Allay</item>
+        <item>Blaze</item>
+        <item>Cow</item>
+        <item>Drowned</item>
+        <item>Enderman</item>
+        <item>Sheep</item>
+        <item>Skeleton</item>
+        <item>Slime</item>
+        <item>Stray</item>
+        <item>The Wither</item>
+    </string-array>
+
+    <string-array name="mob_healths">
+        <item>20</item>
+        <item>20</item>
+        <item>10</item>
+        <item>20</item>
+        <item>40</item>
+        <item>8</item>
+        <item>20</item>
+        <item>16</item>
+        <item>20</item>
+        <item>300</item>
+    </string-array>
+
+    <string-array name="mob_damages">
+        <item>Passive</item>
+        <item>5</item>
+        <item>Passive</item>
+        <item>12</item>
+        <item>10.5</item>
+        <item>Passive</item>
+        <item>4</item>
+        <item>6</item>
+        <item>3</item>
+        <item>15</item>
+    </string-array>
+
+    <string-array name="mob_identifiers">
+        <item>entity.minecraft.allay</item>
+        <item>entity.minecraft.blaze</item>
+        <item>entity.minecraft.cow</item>
+        <item>entity.minecraft.drowned</item>
+        <item>entity.minecraft.enderman</item>
+        <item>entity.minecraft.sheep</item>
+        <item>entity.minecraft.skeleton</item>
+        <item>entity.minecraft.slime</item>
+        <item>entity.minecraft.stray</item>
+        <item>entity.minecraft.wither</item>
+    </string-array>
+
+    <string-array name="mob_descriptions">
+        <item>The allay (/əˈleɪ/ uh-ʟᴀʏ) is a flying passive mob that collects and delivers items for any player that gives it something or any note block it hears recently playing.\n\nAllays can be found surrounding pillager outposts, confined inside dark oak cages. One to three allays can spawn in each cage. They have a 50% chance of spawning here.\n\nAllays can also spawn inside jail cells within woodland mansions. One to three allays can spawn in each cell. They have a 50% chance of spawning here.\n\nAllay can be duplicated/bred by playing a Music Disk in a Jukebox with Allay nearby and then clicking the Allay with a Amethyst Shard while they are dancing. Unlike other mobs only 1 allay is needed for breeding/duplication and they have no baby variant.</item>
+        <item>A blaze is a hostile mob that spawns in nether fortresses and is the only source of blaze rods.\n\nBlazes attack at range by firing a trio of fireballs or can attack the player that gets too close to them with their spinning rods.\n\nBlazes may spawn naturally in nether fortresses in groups of 2 or 3 at a light level of 11 or less. Blazes spawn from monster spawners in nether fortresses. The spawners are located on small platforms with a three-block staircase leading up to it.\n\nA blaze may drop 1 blaze rod or from 0 to 4 with Looting III when killed by the player or tamed wolf. 10 experience orbs are dropped if killed by a player or tamed wolf.</item>
+        <item>A cow is a passive mob found in most grassy biomes and a source of leather, beef and milk.\n\nCows spawn above grass blocks in small herds during world generation or individually afterwards. Their spawn rate varies per biome.\n\nIn Bedrock Edition, herds of two to three cows spawn on grass blocks at a light level of 9 or higher with at least two blocks of space above, in most grassy biomes except for snowy plains, meadows, mangrove swamps and wooded badlands.\n\nIn Java Edition, herds of four cows spawn on grass blocks at a light level of 7 or higher with at least two blocks of space above, in most grassy biomes except for snowy plains, meadows, mangrove swamps and wooded badlands.</item>
+        <item>Drowned are common underwater zombie variants that spawn in oceans, rivers and dripstone caves, or when zombies drown.\n\nThey usually attack through melee attacks, but may also come armed with tridents that they throw. They are the only source of tridents, and the only renewable source of copper.\n\nDrowned spawn naturally at light level of 0 in all ocean biomes, aquifers in the dripstone caves biome, and river biomes. They spawn at higher rates in rivers and dripstone caves than in ocean biomes.\n\nIn Java Edition, drowned spawn individually inside flowing water or source water that is 2 blocks or taller (this can include waterlogged blocks). In ocean biomes, drowned spawn at Y &lt; 58, or at least 6 blocks below sea level; this restriction does not apply to rivers.\n\nIn Bedrock Edition, drowned spawn in groups of 2–4 inside flowing water or source water of any depth, but they spawn at higher rates in water that is 2 blocks or taller.[more information needed]\n\nThey spawn only on the surface that is on the highest spawnable block at any given X, Z coordinate. They count toward the monster population control cap and also have their own density caps of 5 in oceans and 2 in rivers.</item>
+        <item>The Enderman is a tall neutral mob found in all three dimensions.\n\nEndermen normally ignore players and lazily amble about, but they will swiftly walk to attack those that damage it or look directly at its face.\n\nEndermen teleport to avoid water (which harms them), projectiles and some other damage sources, and they occasionally pick up certain blocks. They will also teleport more rapidly in sunlight.\n\nEndermen can spawn on any solid surface that has at least three empty spaces above, at the light level of 0 in the Overworld and the End, or a light level of 7 or less in the Nether. They are the only mobs that spawn in all 3 dimensions. Endermen spawn uncommonly in the Overworld, in all biomes except mushroom fields and deep dark. They often spawn in groups of two, and rarely in groups of three.</item>
+        <item>Sheep are common passive mobs that supply wool and mutton and are found in many of the grassy biomes.\n\nThe majority of sheep are white, with an 81.836% chance of spawning. The light gray, gray and black sheep each have a 5% chance of spawning, or a 15% chance collectively. Brown sheep have an uncommon 3% chance to spawn. Pink sheep have a rare chance of 0.164% of spawning naturally.\n\nIf a sheep monster spawner is placed via /setblock, the sheep model spinning inside appears with one of the six naturally spawning colors.\n\nIndependently from the displayed color, all six variants are able to spawn, the usual chances apply. To guarantee that sheep always spawn with the desired color, additional NBT tags can be applied to the monster spawner, utilizing the Color tag.</item>
+        <item>A skeleton is an undead hostile mob that performs ranged attacks with a bow.\n\nA skeleton may spawn above a solid block at a light level of 0 in the Overworld except in mushroom fields and deep dark biomes, usually in small groups of up to four skeletons in Java Edition or two skeletons in Bedrock Edition.\n\n80% of skeletons spawned directly under the sky in snowy plains, ice spikes, frozen oceans, deep frozen oceans and legacy frozen oceans biomes spawn as stray mobs. Spiders have a very low chance to spawn with a skeleton riding them, creating a spider jockey.\n\nFour skeleton horsemen spawn when a skeleton horse trap is triggered, typically during a thunderstorm. The skeletons ride on skeleton horses and are equipped with enchanted bows and iron helmets and, in Java Edition, have damage immunity for 3 seconds after spawning.</item>
+        <item>Slimes are bouncy, cube-shaped hostile mobs that spawn deep underground in particular chunks, or in swamp biomes.\n\nThey attack by jumping at their targets, come in three sizes and larger slimes can split into smaller ones on death.\n\nSlimes spawn in the Overworld in specific "slime chunks" below layer 40, regardless of light levels. They can also spawn in swamp biomes between layers 51 and 69 (inclusive) in light levels of 7 or less, with these layers tending to be near the surface.\n\nSlimes spawn regardless of weather conditions. Only sizes 1, 2, and 4 (NBT Size tag values 0, 1 and 3 respectively) spawn naturally. With use of /summon, slimes can potentially range from size 1 to 127 (NBT Size tag 0–126).\n\nLike most other hostile mobs, slimes do not spawn within 24 blocks (spherical) of any player, despawn over time if no player is within 32 blocks, and despawn instantly if no player is within the despawn radius (128 blocks in Java Edition, 44 to 128 blocks in Bedrock Edition depending on simulation distance).</item>
+        <item>A stray is a variant of a skeleton that spawns in a few snow-covered biomes.\n\nThey behave similarly to skeletons, except they fire tipped arrows of Slowness from their bows.\n\nA stray may spawn directly under the sky in snowy plains, ice spikes or frozen rivers, replacing 80% of skeletons. Additionally, a stray may spawn in frozen oceans, deep frozen oceans or legacy frozen oceans in Bedrock Edition.\n\nStrays do not spawn naturally from monster spawners in Java Edition. In Bedrock Edition, 1% of spiders and cave spiders may spawn as a spider jockey with 80% chance to be a stray spider jockey or stray cave spider jockey.\n\nWhen a skeleton is kept inside powder snow for 7 seconds (140 game ticks), it begins shaking. After another 15 seconds (300 game ticks) it becomes a stray. The stray appears with full health even if the previous skeleton did not. Items being held or worn by a skeleton when it becomes a stray remain unchanged.</item>
+        <item>The wither is a player-constructed and highly destructive undead hostile boss mob that can hover in mid-air and fire barrages of explosive wither skulls at its target (which happens to be everything living).\n\nIt is the only source of nether stars, which are used to craft beacons.\n\nThe wither is spawned by placing 4 blocks of soul sand and/or soul soil in a T shape (see image on the right in the "Behavior" section), and putting 3 wither skeleton skulls on top of the three upper blocks. The last block placed must be one of the three skulls and can be placed by the player or a dispenser.\n\nAir blocks are required on either side of the base soul sand or soul soil under the upper blocks (non-solid blocks such as grass and flowers prevent the wither from spawning). The building pattern can have any orientation (including horizontal and upside-down) as well as the skulls; the wither always spawns at the foot of the pattern. When the wither has successfully spawned, it is angered and creates an explosion around itself.</item>
+    </string-array>
+
+
+    <integer-array name="mob_photos">
+        <item>@drawable/allay</item>
+        <item>@drawable/blaze</item>
+        <item>@drawable/cow</item>
+        <item>@drawable/drowned</item>
+        <item>@drawable/enderman</item>
+        <item>@drawable/sheep</item>
+        <item>@drawable/skeleton</item>
+        <item>@drawable/slime</item>
+        <item>@drawable/stray</item>
+        <item>@drawable/wither</item>
+    </integer-array>
+
+    <string-array name="mob_links">
+        <item>https://minecraft.fandom.com/wiki/Allay</item>
+        <item>https://minecraft.fandom.com/wiki/Blaze</item>
+        <item>https://minecraft.fandom.com/wiki/Cow</item>
+        <item>https://minecraft.fandom.com/wiki/Drowned</item>
+        <item>https://minecraft.fandom.com/wiki/Enderman</item>
+        <item>https://minecraft.fandom.com/wiki/Sheep</item>
+        <item>https://minecraft.fandom.com/wiki/Skeleton</item>
+        <item>https://minecraft.fandom.com/wiki/Slime</item>
+        <item>https://minecraft.fandom.com/wiki/Stray</item>
+        <item>https://minecraft.fandom.com/wiki/Wither#ID</item>
+    </string-array>
+</resources>
